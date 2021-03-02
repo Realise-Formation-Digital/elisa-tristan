@@ -1,0 +1,14 @@
+uuid: 39843f58-5a51-4877-a762-b659a8ac5373
+name: 'Tristan Elisa'
+mail: tristan.tsst@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
